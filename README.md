@@ -1,5 +1,5 @@
 # TweetCo
-a Full Stack social media website similar to twitter using JavaScript
+A Full Stack social media twitter clone using MERN Stack
 
 Back-end : Node.js/Express.js 
 
